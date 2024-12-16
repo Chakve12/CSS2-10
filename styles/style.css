@@ -1,0 +1,177 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.main_container {
+    max-width: 1604px;
+    width: 100%;
+    margin: 0 auto;
+    background-color: #E2F7FF;
+    padding: 96px;
+}
+
+.inlineBlock {
+    display: inline-block;
+}
+
+.block {
+    display: block;
+}
+
+.inside_content {
+    padding-bottom: 96px;
+}
+
+.main_content {
+    padding: 0px 32px;
+    max-width: fit-content;
+    width: 100%;
+    margin: 0 auto;
+}
+
+.mainImage {
+    text-align: center;
+}
+
+.header_content {
+    margin-bottom: 64px;
+}
+
+.olivia {
+    margin-top: 20px;
+    color: #6941C6;
+    font-family: Inter;
+    font-size: 14px;
+    font-weight: 600;
+}
+
+.ux {
+    color: #181D27;
+    font-family: Inter;
+    font-size: 30px;
+    font-weight: 600;
+    margin-top: 8px;
+}
+
+.question {
+    color: #535862;
+    font-family: Inter;
+    font-size: 16px;
+    margin-top: 8px;
+}
+
+.catg {
+    margin-top: 24px;
+}
+
+.categories1 {
+    font-family: Inter;
+    font-size: 14px;
+    border-radius: 9999px;
+    font-weight: 500;
+    text-align: center;
+    margin-right: 8px;
+    padding: 8px 12px;
+}
+
+.design {
+    color: #6941C6;
+    background: #F9F5FF;
+    border: 1px solid #E9D7FE;
+}
+
+.research {
+    background: #EEF4FF;
+    border: 1px solid #C7D7FE;
+    color: #3538CD;
+}
+
+.presentation {
+    color: #C11574;
+    background: #FDF2FA;
+    border: 1px solid #FCCEEE;
+}
+
+/* phoneix */
+
+.personInfo {
+    color: #6941C6;
+    font-family: Inter;
+    font-size: 14px;
+    font-weight: 600;
+}
+
+.lower_card {
+    margin-top: 20px;
+}
+
+.lowerTitle {
+    color: #181D27;
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 600;
+    margin-top: 8px;
+    width: 344px;
+    margin-right: 16px;
+}
+
+.description {
+    color: #535862;
+    font-family: Inter;
+    font-size: 16px;
+    margin-top: 8px;
+}
+
+.categories2 {
+    font-family: Inter;
+    font-size: 14px;
+    font-weight: 500;
+    margin-right: 8px;
+    border-radius: 9999px;
+    padding: 8px 12px;
+}
+
+.catg1 {
+    margin-top: 24px;
+}
+
+.product {
+    border: 1px solid #B9E6FE;
+    background-color: #F0F9FF;
+}
+
+.tools {
+    border: 1px solid #FCCEEE;
+    background-color: #FDF2FA;
+}
+
+.saas {
+    border: 1px solid #FCCEEE;
+    background-color: #FDF2FA;
+}
+
+.softdev {
+    color: #067647;
+    border: 1px solid #ABEFC6;
+    background-color: #ECFDF3;
+}
+
+.leadership {
+    border: 1px solid #E9D7FE;
+    background-color: #F9F5FF;
+}
+
+.management {
+    border: 1px solid #D5D9EB;
+    background-color: #F8F9FC;
+}
+
+.card {
+    margin-right: 32px;
+}
+
+#card3 {
+    margin: 0;
+}
