@@ -25,14 +25,9 @@
 }
 
 .main_content {
-    padding: 0px 32px;
-    max-width: fit-content;
+    max-width: 1280px;
     width: 100%;
     margin: 0 auto;
-}
-
-.mainImage {
-    text-align: center;
 }
 
 .header_content {
@@ -174,4 +169,21 @@
 
 #card3 {
     margin: 0;
+}
+
+.frameworks {
+    border: 1px solid #F9DBAF;
+    background-color: #FEF6EE;
+}
+
+#lowertitle1 {
+    vertical-align: middle;
+}
+
+#card6 {
+    vertical-align: top;
+}
+
+.buttomcards {
+    margin-top: 48px;
 }
